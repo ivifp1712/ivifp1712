@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - :earth_africa: I'm living in Spain
 - I have special interest in 
-<img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-1.png" width="512" height="149" alt="Python" />
+<img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-1.png" width="200" alt="Python" />
 
 
