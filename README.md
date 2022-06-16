@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Ivan Gonzalez Gordo, Backend Developer
 
 <!--
 **ivifp1712/ivifp1712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :earth_africa: I'm living in Spain
+- 
+
+
